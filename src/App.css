@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+ min-height: 100vh;
+}
+.App.dark
+{
+  color: #fff;
+  background-color: #282c34;
+}
